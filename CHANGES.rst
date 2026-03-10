@@ -11,6 +11,11 @@
 Changes
 =======
 
+Version v8.0.1 (released 2026-03-10)
+
+- fix(api): Cleanup next_draft_id in versions state only on latest draft
+- fix(media-files): Skip sync when draft files doesn't have a bucket
+
 Version v8.0.0 (released 2026-01-30)
 
 - chore(setup): bump dependencies
