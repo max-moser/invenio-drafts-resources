@@ -11,6 +11,10 @@
 Changes
 =======
 
+Version v9.0.2 (released 2026-05-04)
+
+- fix(auditlog): don't require session to accommodate API calls
+
 Version v9.0.1 (released 2026-04-10)
 
 - fix(request-context): provide fallback metadata for non-request ops
