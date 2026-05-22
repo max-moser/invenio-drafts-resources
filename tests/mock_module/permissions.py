@@ -1,13 +1,9 @@
-# -*- coding: utf-8 -*-
-#
-# This file is part of Invenio.
-# Copyright (C) 2020 CERN.
-# Copyright (C) 2025 Northwestern University.
-#
-# Invenio-Drafts-Resources is free software; you can redistribute it and/or
-# modify it under the terms of the MIT License; see LICENSE file for more
-# details.
-
+# SPDX-FileCopyrightText: 2020-2025 CERN.
+# SPDX-FileCopyrightText: 2021 Northwestern University.
+# SPDX-FileCopyrightText: 2022 TU Wien.
+# SPDX-FileCopyrightText: 2022 Graz University of Technology.
+# SPDX-FileCopyrightText: 2025-2026 CESNET z.s.p.o.
+# SPDX-License-Identifier: MIT
 
 """Example of a permission policy."""
 
